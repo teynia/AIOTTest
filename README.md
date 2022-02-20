@@ -1,5 +1,5 @@
 <div align="left">
-  <h1 align="left">Simple Progressive Web App (PWA)</h1>
+  <h1 align="left">AIOTtest</h1>
 </div>
 
 <p>This is a simple page for a Progressive Web App (PWA)</p>
